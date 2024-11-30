@@ -14,6 +14,7 @@ Hi there! 👋 I'm Raymond, a Computer Science student dedicated to building coo
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=raymond2330.raymond2330&"  />
 
 ###
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raymond2330&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
